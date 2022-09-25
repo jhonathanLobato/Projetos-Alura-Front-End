@@ -20,4 +20,9 @@ O projeto e uma introduçao ao JavaScript para a web
 
 O foco do projeto era aprender a manipular o DOOM em JavaScript, 
 
+
+### Alura Plus ###
+Revisao de tudo que foi aprendido na formaçao HTML e CSS
+
+
 readmi ainda em desenvolvimento ;-;
