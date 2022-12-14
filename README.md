@@ -12,11 +12,18 @@ O primeiro projeto feito na Alura com a introdução e conceitos ao HTML e CSS, 
 
 #
 
+### Alurinha ###
+Um curso voltado especialmente para ensinar sobre Flexbox, foi desenvolvido um projeto de gerenciador de cursos online chamado Alurinha começando a criar o layout do zero usando somente o flexbox para posicionar os elementos.
+
+#
+
+
 ### Foco em Resposividade ###
 Ensino sobre as ferramentas de responsividade em diferentes telas para web.
 
 
 #
+
 
 ### Alura Store ###
 Curso focado em CSS Grid layout onde foi desenvolvido um site do zero utilizando todos as funções Grid para posicionar elementos em seus respectivos lugares, e ao final foi utilizado ferramentas para deixa-lo responsivo para diferentes tipos de telas.
