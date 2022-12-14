@@ -2,7 +2,7 @@
 
 Todos os projetos em Front-end que fiz com os cursos da Alura.
 
-Com a conclusão da Formação HTML/CSS, Formação Front-End e a Formação JavaScript para web.
+Todos os cursos fazem parte da Formação HTML/CSS, Formação Front-End e a Formação JavaScript para web.
 
 
 ### Barbearia Alura ###
@@ -12,11 +12,15 @@ O primeiro projeto feito na Alura com a introdução e conceitos ao HTML e CSS, 
 #
 
 ### Foco em Resposividade ###
-Ensino sobre as ferramentas de responsividade em diferentes telas para c web.
+Ensino sobre as ferramentas de responsividade em diferentes telas para web.
 
 
 #
 
+### Alura Store ###
+Curso focado em CSS Grid layout onde foi desenvolvido um site do zero utilizando todos as funções Grid para posicionar elementos em seus respectivos lugares, e ao final foi utilizado ferramentas para deixa-lo responsivo para diferentes tipos de telas.
+
+#
 
 ### Alura Books ###
 Curso onde foi ensinado novos elementos HTML e novas propriedades CSS como a criação de um modal lateral e um carrossel, e também semanticas para criar telas responsivas para diferentes telas.
@@ -25,13 +29,13 @@ Curso onde foi ensinado novos elementos HTML e novas propriedades CSS como a cri
 
 
 ### Alura Plus ###
-Revisão dos conceitos de HTML e CSS.
+Revisão dos cursos da formação fron-end, onde foi visto os fundamentos do HTML e CSS para reforçar o que já havia sido visto e fortalecer o que foi aprendido.
 
 #
 
 
 ### Alura Midi ###
-O projeto é uma introdução ao JavaScript para a web usando para criar novas Dinâmica para a página HTML.
+O projeto é uma introdução ao JavaScript para a web usando para criar novas dinâmica para a página HTML.
 
 #
 
