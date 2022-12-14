@@ -4,6 +4,7 @@ Todos os projetos em Front-end que fiz com os cursos da Alura.
 
 Todos os cursos fazem parte da Formação HTML/CSS, Formação Front-End e a Formação JavaScript para web.
 
+#
 
 ### Barbearia Alura ###
 O primeiro projeto feito na Alura com a introdução e conceitos ao HTML e CSS, usando elementos simples de ambas as linguagens.
