@@ -1,0 +1,42 @@
+/* cabecalho */
+@import url(/assets/css/cabecalho.css);
+@import url(/assets/css/menu/menu-item.css);
+@import url(/assets/css/menu/menu-link.css);
+@import url(/assets/css/menu/menu-lista.css);
+
+/* Banner */
+@import url(/assets/css/banner/banner.css);
+@import url(/assets/css/banner/banner-imagem.css);
+@import url(/assets/css/banner/banner-titulo.css);
+
+/* Sobre */
+@import url(/assets/css/sobre/sobre.css);
+@import url(/assets/css/sobre/sobre-titulo.css);
+@import url(/assets/css/sobre/sobre-descricao.css);
+
+/* Receitas */
+@import url(/assets/css/receita/receitas.css);
+@import url(/assets/css/receita/receita.css);
+@import url(/assets/css/receita/receita-imagem.css);
+@import url(/assets/css/receita/receita-titulo.css);
+@import url(/assets/css/receita/receita-conteudo.css);
+@import url(/assets/css/receita/receita-descricao.css);
+@import url(/assets/css/receita/receita-botao.css);
+
+/* Quem Somos */
+@import url(/assets/css/quemSomos/quemSomos.css);
+@import url(/assets/css/quemSomos/quemSomos-titulo.css);
+@import url(/assets/css/quemSomos/quemSomos-descricao.css);
+
+/* Pessoas */
+@import url(pessoas.css);
+@import url(/assets/css/pessoa/pessoa.css);
+@import url(/assets/css/pessoa/pessoa-nome.css);
+@import url(/assets/css/pessoa/pessoa-imagem.css);
+@import url(/assets/css/pessoa/pessoa-funcao.css);
+
+/* Rodapé */
+@import url(/assets/css/rodape.css);
+
+/* Logo */
+@import url(/assets/css/logo.css);
