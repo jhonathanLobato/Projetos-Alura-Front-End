@@ -12,6 +12,11 @@ O primeiro projeto feito na Alura com a introdução e conceitos ao HTML e CSS, 
 
 #
 
+### Fruta e Fruto ###
+Um projeto de receita que ensina boas práticas em CSS, usando a metodologia BEM(metodologia Block, Element, Modifier) facilitando assim outras pessoas a entender o que foi escrito e a manutenção do código.
+
+#
+
 ### Alurinha ###
 Um curso voltado especialmente para ensinar sobre Flexbox, foi desenvolvido um projeto de gerenciador de cursos online chamado Alurinha começando a criar o layout do zero usando somente o flexbox para posicionar os elementos.
 
@@ -20,7 +25,6 @@ Um curso voltado especialmente para ensinar sobre Flexbox, foi desenvolvido um p
 
 ### Foco em Resposividade ###
 Ensino sobre as ferramentas de responsividade em diferentes telas para web.
-
 
 #
 
