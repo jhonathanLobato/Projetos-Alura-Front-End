@@ -1,0 +1,80 @@
+@use '../abstract/variaveis';
+@use '../abstract/mixins';
+
+#contatos {
+    @include mixins.margem-central(80%);
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    .contatos-imgs {
+        max-width: 60%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: space-around;
+        img {
+            width: 100%;
+            &:nth-child(n + 2) {
+                width: 45%;
+            }
+        }
+    }
+    .contatos-form {
+        max-width: 40%;
+        background: variaveis.$gradiente-primaria;
+        padding: 2rem 3rem;
+        border-radius: 2rem;
+        .titulo {
+            @include mixins.ff-fs-color(variaveis.$ft-titulos, 1.5rem, variaveis.$cor-segundaria)
+        }
+        .infos {
+            @include mixins.ff-fs-color(variaveis.$ft-texto, 1.2rem, variaveis.$cor-primaria)
+        }
+        .inputs {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 1.5rem;
+            align-self: stretch;
+            input {
+                border-radius: 25px;
+                padding: 1rem;
+                border: none;
+            }
+            .form-group {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem;
+                label {
+                    @extend .infos;
+                    font-weight: bold;
+                }
+                textarea {
+                    @extend input;
+                }
+            }
+            .btn {
+                @extend input;
+                background: variaveis.$cor-default;
+                margin-top: 2rem;
+                color: white;
+                font-size: 1rem;
+                width: 100%;
+                transition: .3s;
+                &:hover{
+                    background: variaveis.$cor-segundaria;
+                }
+            }
+        }
+    }
+}
+
+
+footer {
+    background: variaveis.$gradiente-primaria;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 3rem;
+}
